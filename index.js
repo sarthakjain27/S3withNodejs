@@ -2,6 +2,9 @@
 var AWS = require('aws-sdk');
 var uuid = require('uuid');
 
+/*
+This is a dummy test comment to learn github
+*/
 
 AWS.config.update({region: 'us-east-1'});
 
